@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Connect With Me:
 
- <a href="https://www.shadspace.com/">
+ <a href="https://www.shadspace.in/">
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleearth.svg" />
 </a>
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/sajid-shad-62218a182/">
+<a href="https://www.linkedin.com/in/shajid-equbal/">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
