@@ -1,13 +1,5 @@
 ### Hi there, I'm Shajid Equbal ! 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...ShadSpace
-- 🌱 I’m currently learning ...Dart
-- 👯 I’m looking to collaborate on ...Youtube
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ...@shajidshad
 
 
  <img src="https://github-readme-stats.vercel.app/api?username=SajidEqubal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
